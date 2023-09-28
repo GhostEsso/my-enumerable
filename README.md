@@ -5,11 +5,13 @@
 - [📖 My-Enumerable ](#-my-enumerable-)
   - [🛠 Built With \</a](#-built-with-a)
     - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Useage](#useage)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -31,6 +33,15 @@ Enumerables Code by Ruby
     </ul>
   </details>
 
+  <!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Custom Enumerable implementation]**
+- **[Advanced data manipulation]**
+- **[Tests et validation]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -46,31 +57,22 @@ In order to run this project, you must have installed and configured ruby in you
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
   git@github.com:GhostEsso/my-enumerable.git
 ```
- 
---->
 Before to run the program, verify that you have Ruby installed on your OS running the following command:
-<!--
 ```sh
    ruby -v
 ```
---->
 
 ### Useage
 
 Run the following command inside the project folder:
 
-<!--
 ```sh
-    decode.rb
+    ruby my_list.rb
 ```
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -89,6 +91,10 @@ Run the following command inside the project folder:
 - GitHub: [@githubhandle](https://github.com/Nelofarzabi)
 - Twitter: [@twitterhandle](https://twitter.com/NelofarZabi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nelofar-zabi-1a1066213)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[Additional Iteration Methods ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
